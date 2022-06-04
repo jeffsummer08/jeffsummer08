@@ -1,6 +1,6 @@
 # ✋ Hello, My Name Is Jeff Zhou
 ## About Me
-* I am a web developer, student, and data scientist from Dallas, Texas. 
+* I am a web developer and student from Dallas, Texas. 
 * I build web applications  using React.js
 <br>
 
